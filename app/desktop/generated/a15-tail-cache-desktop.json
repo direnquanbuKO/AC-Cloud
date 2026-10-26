@@ -1,0 +1,231 @@
+{
+  "intervals": 21,
+  "sourceDuration": 9.6,
+  "outputDuration": 9.2,
+  "sizes": [
+    {
+      "height": 100,
+      "file": "/desktop/generated/a15-tail-cache-100.png",
+      "width": 85,
+      "frameHeight": 150,
+      "count": 22,
+      "x": 282.5,
+      "y": 412.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 110,
+      "file": "/desktop/generated/a15-tail-cache-110.png",
+      "width": 94,
+      "frameHeight": 165,
+      "count": 22,
+      "x": 279.5,
+      "y": 404.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 120,
+      "file": "/desktop/generated/a15-tail-cache-120.png",
+      "width": 102,
+      "frameHeight": 180,
+      "count": 22,
+      "x": 277,
+      "y": 397,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 130,
+      "file": "/desktop/generated/a15-tail-cache-130.png",
+      "width": 111,
+      "frameHeight": 195,
+      "count": 22,
+      "x": 274,
+      "y": 389,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 140,
+      "file": "/desktop/generated/a15-tail-cache-140.png",
+      "width": 119,
+      "frameHeight": 210,
+      "count": 22,
+      "x": 271.5,
+      "y": 381.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 150,
+      "file": "/desktop/generated/a15-tail-cache-150.png",
+      "width": 128,
+      "frameHeight": 225,
+      "count": 22,
+      "x": 268.5,
+      "y": 373.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 160,
+      "file": "/desktop/generated/a15-tail-cache-160.png",
+      "width": 136,
+      "frameHeight": 240,
+      "count": 22,
+      "x": 266,
+      "y": 366,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 170,
+      "file": "/desktop/generated/a15-tail-cache-170.png",
+      "width": 145,
+      "frameHeight": 255,
+      "count": 22,
+      "x": 263,
+      "y": 358,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 180,
+      "file": "/desktop/generated/a15-tail-cache-180.png",
+      "width": 153,
+      "frameHeight": 270,
+      "count": 22,
+      "x": 260.5,
+      "y": 350.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 190,
+      "file": "/desktop/generated/a15-tail-cache-190.png",
+      "width": 162,
+      "frameHeight": 285,
+      "count": 22,
+      "x": 257.5,
+      "y": 342.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 210,
+      "file": "/desktop/generated/a15-tail-cache-210.png",
+      "width": 179,
+      "frameHeight": 315,
+      "count": 22,
+      "x": 252,
+      "y": 327,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 220,
+      "file": "/desktop/generated/a15-tail-cache-220.png",
+      "width": 187,
+      "frameHeight": 330,
+      "count": 22,
+      "x": 249.5,
+      "y": 319.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 230,
+      "file": "/desktop/generated/a15-tail-cache-230.png",
+      "width": 196,
+      "frameHeight": 345,
+      "count": 22,
+      "x": 246.5,
+      "y": 311.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 240,
+      "file": "/desktop/generated/a15-tail-cache-240.png",
+      "width": 204,
+      "frameHeight": 360,
+      "count": 22,
+      "x": 244,
+      "y": 304,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 250,
+      "file": "/desktop/generated/a15-tail-cache-250.png",
+      "width": 213,
+      "frameHeight": 375,
+      "count": 22,
+      "x": 241,
+      "y": 296,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 260,
+      "file": "/desktop/generated/a15-tail-cache-260.png",
+      "width": 221,
+      "frameHeight": 390,
+      "count": 22,
+      "x": 238.5,
+      "y": 288.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 270,
+      "file": "/desktop/generated/a15-tail-cache-270.png",
+      "width": 230,
+      "frameHeight": 405,
+      "count": 22,
+      "x": 235.5,
+      "y": 280.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 280,
+      "file": "/desktop/generated/a15-tail-cache-280.png",
+      "width": 238,
+      "frameHeight": 420,
+      "count": 22,
+      "x": 233,
+      "y": 273,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 290,
+      "file": "/desktop/generated/a15-tail-cache-290.png",
+      "width": 247,
+      "frameHeight": 435,
+      "count": 22,
+      "x": 230,
+      "y": 265,
+      "columns": 11,
+      "rowsPerPart": 2
+    },
+    {
+      "height": 300,
+      "file": "/desktop/generated/a15-tail-cache-300.png",
+      "width": 255,
+      "frameHeight": 450,
+      "count": 22,
+      "x": 227.5,
+      "y": 257.5,
+      "columns": 11,
+      "rowsPerPart": 2
+    }
+  ],
+  "source_current_task": "03_A编号动作/A15/已通过版本/A15_w9_2026-10-16",
+  "source_lock_sha256": "18da2fd9d5e1d709e300242f87cf4868c4fb24ea03dd0e2540fd866c2377ed6a",
+  "source_algorithm": "b9c52768ee94a39d938e1470dc0e7ad58041a9411be834cec0c80f8ecd934e40",
+  "method": "Original native signed-distance/ink morph, exact 22 interval frames at each actual height; right-arm crop only; no rescale; 11-column lossless PNG tiling."
+}

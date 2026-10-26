@@ -1,0 +1,29 @@
+Cubism Web Framework - third-party attribution for AC Cloud
+
+Copyright(c) Live2D Inc. All rights reserved.
+
+This component is included through the cubism submodule of
+pixi-live2d-display v0.4.0. Its pinned repository is
+https://github.com/guansss/CubismWebFramework
+Commit: 1f9cdfd140e87ba0ae68a356bb5ec339a0e65f99
+The commit's CHANGELOG begins with release 4-r.4 (2021-12-09).
+
+The original LICENSE.md is supplied unchanged as CubismFramework-LICENSE.md.
+It identifies the Framework as Live2D Cubism Components, governed by the
+Live2D Open Software License. An HTML copy of the official agreement is
+included as Live2D-Open-Software-License.html.
+
+The pinned upstream tree contains LICENSE.md and no standalone NOTICE file.
+This attribution note was assembled for this distribution; it is not an
+upstream NOTICE or a replacement for the original license/agreement.
+
+Cubism Core has its separate Live2D Proprietary Software License.
+The Framework/plugin licenses do not replace the Core license and do not
+license the character artwork, textures or model data under MIT.
+
+Provenance:
+https://github.com/guansss/pixi-live2d-display/tree/v0.4.0
+https://raw.githubusercontent.com/guansss/pixi-live2d-display/v0.4.0/.gitmodules
+https://github.com/guansss/CubismWebFramework/tree/1f9cdfd140e87ba0ae68a356bb5ec339a0e65f99
+https://raw.githubusercontent.com/guansss/CubismWebFramework/1f9cdfd140e87ba0ae68a356bb5ec339a0e65f99/LICENSE.md
+https://www.live2d.com/eula/live2d-open-software-license-agreement_en.html

@@ -1,0 +1,71 @@
+{
+  "nativeGuardURL": "/02_共用静止与衔接动作/共用模型/统一运行库/objects/9d1cf7d34f34be98c4120844e54e36e937430d6f2262210f381bd7b2ad3b3a63/resource.mjs",
+  "hero": {
+    "originalModel": "/02_共用静止与衔接动作/共用模型/统一运行库/objects/0b5607f4605d523d28175dfe516be783cdc20f4a33c2faa89a12294473892105/resource.model3.json",
+    "model": "/02_共用静止与衔接动作/共用模型/统一运行库/objects/f0732b93a80ef574f3378982f6f8f4d27bb7dfb69db2c1ae76f0ab4a5e80bfb0/resource.model3.json",
+    "moc_sha256": "de68b1301ed60bc8f083687405e3ed9e82dfd7283e9b2765ab5b393cf9f37706",
+    "moc_bytes": 30751936,
+    "original_moc_sha256": "e92fb0fd7337b206bb8fbe3062289a1b6251e03cbc42ffcc43332db66390a483",
+    "approved": "User accepted visual comparison 2026-10-25; original retained"
+  },
+  "spec": "/02_共用静止与衔接动作/共用模型/统一运行库/objects/97513b7ab3c120bc286bb9b00691c8502223099cc702ee07b86f7876fc66d974/resource.json",
+  "model": "/02_共用静止与衔接动作/共用模型/统一运行库/objects/cd1918da94ee814f09c63ee40d30ed6790b518ee990cd792e8dc233cdf57aae6/resource.model3.json",
+  "artBounds": [
+    0.284375,
+    0.021875,
+    0.7140625,
+    0.95
+  ],
+  "inputs": {
+    "A01": {
+      "current_task": "02_共用静止与衔接动作/已通过动作/A01_完整台词版",
+      "runtime": "02_共用静止与衔接动作/共用模型/统一运行库/optimized/w4/actions/A01/runtime.json",
+      "runtime_sha256": "7d886c7bd0086b539c7fc338534172d012044339f1ab1ab54c87cf2b989683b9",
+      "source_lock_sha256": "bcb569021b4ccac0754dc6fb71971e43c5e46692497ed499d300f6ce4f65672c",
+      "source_changes": [],
+      "dialogue_semantics": "unchanged"
+    },
+    "A49": {
+      "current_task": "03_A编号动作/A49/已通过版本/完整台词_轻点20pct",
+      "runtime": "02_共用静止与衔接动作/共用模型/统一运行库/optimized/w4/actions/A49/runtime.json",
+      "runtime_sha256": "d723c5e78887f2a51b8a10f9504f9a07756ad130bb54989c54a13784b31f59d1",
+      "source_lock_sha256": "40db439ab639479a7a94ace3fdaa604ff84f2d15526ccca8cdf1528affd08030",
+      "source_changes": [],
+      "dialogue_semantics": "unchanged"
+    },
+    "SI04": {
+      "current_task": "02_共用静止与衔接动作/已通过动作/SI01-SI04_鼠标动作组_w45_2026-10-22",
+      "runtime": "02_共用静止与衔接动作/共用模型/统一运行库/optimized/w4/actions/SI04/runtime.json",
+      "runtime_sha256": "2d7cbf6638bfe9e706415eeabb572f7ffa416cd914fee3bfa7094e63544cbdec",
+      "source_lock_sha256": "ac487b81f0abb985b61f497838789677675a9e049a2c30b5c0a9d5a6c2d4be73",
+      "source_changes": [],
+      "dialogue_semantics": "unchanged"
+    }
+  },
+  "dialogue": {
+    "A01": {
+      "label": "基础待机",
+      "candidates": [
+        "没兴趣。"
+      ],
+      "defaultSilent": false,
+      "sourceText": "“没兴趣。”（低频：仅独立完整触发A01时一次概率判定，当前20%；无30秒等待/90秒限制。作为其他动作初始或衔接时无台词，不随呼吸循环重抽。2026-10-13用户确认完整版）",
+      "enabled": true,
+      "status": "有效文稿"
+    },
+    "A49": {
+      "label": "用户轻点后回应",
+      "candidates": [
+        "怎么了？"
+      ],
+      "defaultSilent": false,
+      "sourceText": "“怎么了？”（低频）",
+      "enabled": true,
+      "status": "有效文稿"
+    }
+  },
+  "siConfig": {
+    "scenario": "direct",
+    "components": []
+  }
+}

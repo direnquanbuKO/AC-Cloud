@@ -1,0 +1,11 @@
+{
+  "name": "ac-cloud",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "electron app"
+  },
+  "devDependencies": {
+    "electron": "33.2.0"
+  }
+}

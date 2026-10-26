@@ -1,0 +1,8 @@
+{
+  "name": "ac-cloud",
+  "productName": "AC Cloud",
+  "version": "0.1.0",
+  "private": true,
+  "main": "desktop/main.cjs",
+  "description": "AC Cloud 克劳德桌宠"
+}

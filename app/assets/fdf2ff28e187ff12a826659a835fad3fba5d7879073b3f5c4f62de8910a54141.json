@@ -1,0 +1,19 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "/02_共用静止与衔接动作/共用模型/统一运行库/objects/de68b1301ed60bc8f083687405e3ed9e82dfd7283e9b2765ab5b393cf9f37706/resource.moc3",
+    "Textures": [
+      "/02_共用静止与衔接动作/共用模型/统一运行库/objects/b86545c5853dab5957502cb60547c9b8e0ddf6c71e40ae41728a5fe1d02d07ee/resource.png"
+    ],
+    "DisplayInfo": "/02_共用静止与衔接动作/共用模型/统一运行库/objects/5bf9053a2b9d88bd122a28afdee4770d5d23cda030905f29f989fe3d9eca8de1/resource.cdi3.json"
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# Dependencies and local Electron downloads
+node_modules/
+.npm/
+.electron/
+electron-dist/
+
+# Build output (runtime assets in app/assets/ must remain tracked)
+/dist/
+/build/
+/out/
+/release/
+*.zip
+*.7z
+*.exe
+*.msi
+
+# User settings, crash dumps and caches
+.cloud-desktop/
+/data/
+/user-data/
+/profiles/
+Crashpad/
+Cache/
+Code Cache/
+GPUCache/
+*.dmp
+*.log
+*.tmp
+
+# Python/tool caches
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Local machine/editor state
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example

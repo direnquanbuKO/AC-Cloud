@@ -1,0 +1,29 @@
+{
+  "source_plugin": "pixi-live2d-display v0.4.0",
+  "submodule_path": "cubism",
+  "submodule_repository": "https://github.com/guansss/CubismWebFramework",
+  "submodule_commit": "1f9cdfd140e87ba0ae68a356bb5ec339a0e65f99",
+  "framework_changelog_release": "4-r.4 (2021-12-09)",
+  "upstream_standalone_NOTICE": false,
+  "retrieved_utc": "2026-10-26T10:43:47.284767+00:00",
+  "files": [
+    {
+      "file": "CubismFramework-LICENSE.md",
+      "bytes": 2234,
+      "sha256": "7ed849bff1e6499aa7cd882e47d246ddbbe06817c1e84cb974df949488302614",
+      "unchanged_upstream": true
+    },
+    {
+      "file": "CubismFramework-NOTICE.txt",
+      "bytes": 1504,
+      "sha256": "44a0679e259ac32501ee8f687dbcb7fd59d49769b2f69fe78296ca79445f7e0a",
+      "unchanged_upstream": false
+    },
+    {
+      "file": "Live2D-Open-Software-License.html",
+      "bytes": 73603,
+      "sha256": "a8274bf5f461335738791e9f392eb3f3684eaa22cbb4dfe1f3f887c3586a8d82",
+      "unchanged_upstream": true
+    }
+  ]
+}
