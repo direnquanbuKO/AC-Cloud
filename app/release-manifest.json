@@ -700,7 +700,9 @@
     "/desktop/style.css": "desktop/style.css",
     "/tools/审阅/共用动作/vendor/cubism4.min.js": "assets/af1267e6d52759b245766c578d905bfa025b532d5c3cc727c370957c4409e21b.js",
     "/tools/审阅/共用动作/vendor/live2dcubismcore.min.js": "assets/25ae938cb4fe282ce189b357bcc97e603d1e1f7ec78bf04150d401c23cdc792f.js",
-    "/tools/审阅/共用动作/vendor/pixi.min.js": "assets/403f2f2ee8145fa17f60c5c89403056efe2680e5096ec2762036486914ed19c5.js"
+    "/tools/审阅/共用动作/vendor/pixi.min.js": "assets/403f2f2ee8145fa17f60c5c89403056efe2680e5096ec2762036486914ed19c5.js",
+    "/02_共用静止与衔接动作/共用对话框/台词库.json": "assets/9b8653c49c536134eeebfc2fbf47a692f30b4a46db879af0f4790e2b02e7c597.json",
+    "/02_共用静止与衔接动作/共用对话框/dialogue.css": "assets/439c31d0ec89cf6e890a391453d9b70992b06a36cf2caaa479322c5e77374187.css"
   },
   "files": {
     "assets/fd8a747b66d2eda579cd758b9df565542b7fcd29d81d6739eec009f0db343b70.mjs": {
@@ -3450,6 +3452,10 @@
     "package.json": {
       "bytes": 170,
       "sha256": "601f87f338e021940e35a9a6f23666bafaa2d6113525a944070aaa2b90fe93fc"
+    },
+    "assets/9b8653c49c536134eeebfc2fbf47a692f30b4a46db879af0f4790e2b02e7c597.json": {
+      "bytes": 14929,
+      "sha256": "9b8653c49c536134eeebfc2fbf47a692f30b4a46db879af0f4790e2b02e7c597"
     }
   },
   "actions": [
